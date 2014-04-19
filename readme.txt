@@ -31,7 +31,7 @@ On this page "*ids" field will show your "Profile ID".
 	
 	> Enter Maximum Number of records you want to show.
 	
-	> After completeting the configuration go to your site widget area and drag the "Google Analytic Top Posts" widget.
+	> After completing the configuration go to your site widget area and drag the "Google Analytic Top Posts" widget.
 															
 
 
